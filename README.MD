@@ -1,7 +1,7 @@
 > **This project is an updated fork of [SnowLeopardR Project](https://github.com/Nova41/SnowLeopard).**
 
-## SnowLeopardR
-SnowLeopardR is an open-source machine learning-based anticheat project. It classfies player's "combat style" with the time series built from player's movements and interactions on entities.
+## Updated SnowLeopardR
+Updated SnowLeopardR is a maintained version of the SnowLeopardR open-source machine learning-based combat anticheat project. It classfies player's "combat style" with the time series built from player's movements and interactions on entities.
 
 The feature extration procedure is backed up with experiment results, and the subsequently derived dataset is testified to reveal user's movement characteristics. SnowLeopardR classifies the data by leveraging a learning vector quantization neural network[1].
 
