@@ -1,4 +1,4 @@
-> **This project is currently unmaintained.**
+> **This project is an updated fork of [https://github.com/Nova41/SnowLeopard](SnowLeopardR Project)*.*
 
 ## SnowLeopardR
 SnowLeopardR is an open-source machine learning-based anticheat project. It classfies player's "combat style" with the time series built from player's movements and interactions on entities.
@@ -20,5 +20,3 @@ Maven 3
 
 ## License
 GPL v3
-
-> Written with [StackEdit](https://stackedit.io/).
