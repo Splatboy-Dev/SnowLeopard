@@ -1,4 +1,4 @@
-> **This project is an updated fork of [SnowLeopardR Project](https://github.com/Nova41/SnowLeopard)*.*
+> **This project is an updated fork of [SnowLeopardR Project](https://github.com/Nova41/SnowLeopard).**
 
 ## SnowLeopardR
 SnowLeopardR is an open-source machine learning-based anticheat project. It classfies player's "combat style" with the time series built from player's movements and interactions on entities.
